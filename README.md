@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/date-palm-field.jpg" width="900"/>
+</p>
+
+
 # 🌴 Khuzestan Agro-Industrial Project
 
 🚀 A 50,000-hectare integrated agro-industrial investment opportunity in Khuzestan, Iran.
