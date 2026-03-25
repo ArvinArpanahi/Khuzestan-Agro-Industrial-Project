@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/date-palm-field.jpg" width="900"/>
+  <img src="images/date-palm-field.png" width="900"/>
 </p>
 
 
