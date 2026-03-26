@@ -251,6 +251,6 @@ To transform Khuzestan into:
 For investment discussions and partnerships:
 
 Arvin Arpanahi  
-Project Founder  
+Project Founder 
 
 ---
