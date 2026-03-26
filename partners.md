@@ -1,7 +1,7 @@
 # 🤝 Strategic Partners – Khuzestan Agro-Industrial Project
 
 <p align="center">
-  <img src="images/industrial-hub-map.jpg" width="900"/>
+  <img src="images/master-map.jpg" width="900"/>
 </p>
 
 ---
