@@ -1,6 +1,6 @@
 # Khuzestan Agro-Industrial Date Palm Project
 
-![Date Palm Plantation](images/palm-plantation.jpg)
+![Date Palm Plantation](images/date-palm-field.png)
 
 ## Quick Overview
 
@@ -33,55 +33,56 @@ The objective is to transform traditional agriculture into a scalable, export-dr
 
 ---
 
+## Master Plan Overview
+
+![Master Plan](images/master-map.jpg)
+
+- Full land allocation strategy  
+- Plantation zoning  
+- Infrastructure layout  
+- Expansion capability  
+
+---
+
+## Plantation Development
+
+![Date Palm Field](images/date-palm-field.png)
+
+- Large-scale cultivation  
+- Optimized yield per hectare  
+- Long-term productivity  
+- Mechanized farming  
+
+---
+
+## Water & Irrigation System
+
+![Irrigation Map](images/irrigation-map.jpg)
+
+- Efficient irrigation network  
+- Sustainable water usage  
+- Long-term supply planning  
+
+---
+
+## Infrastructure & Logistics
+
+![Road Network](images/road-network.jpg)
+
+- Internal road systems  
+- Transport and logistics planning  
+- Access to export routes  
+
+---
+
 ## Strategic Vision
 
 To build a high-efficiency agro-industrial system that integrates:
 
-- Plantation development  
-- Water and irrigation infrastructure  
-- Processing and value-added production  
+- Plantation  
+- Water infrastructure  
+- Processing  
 - Export logistics  
-
----
-
-## Plantation Overview
-
-![Palm Farm](images/palm-farm.jpg)
-
-- Large-scale cultivation of date palms  
-- Optimized yield per hectare  
-- Long-term agricultural productivity  
-- Mechanized farming systems  
-
----
-
-## Water & Irrigation Strategy
-
-![Irrigation System](images/irrigation-system.jpg)
-
-- Efficient irrigation systems  
-- Sustainable water management  
-- Infrastructure for long-term supply stability  
-
----
-
-## Processing & Value Addition
-
-![Date Processing](images/date-processing.jpg)
-
-- Date sorting, grading, and packaging  
-- Industrial processing facilities  
-- Export-ready product preparation  
-
----
-
-## Supply Chain & Export
-
-![Logistics](images/logistics.jpg)
-
-- Access to ports and export routes  
-- Efficient logistics and distribution systems  
-- Targeting international markets  
 
 ---
 
@@ -89,32 +90,32 @@ To build a high-efficiency agro-industrial system that integrates:
 
 - Strong global demand for dates  
 - Export-driven revenue model  
-- Scalable land-based infrastructure  
-- Long-term yield stability  
+- Scalable infrastructure  
+- Long-term agricultural stability  
 
 ---
 
 ## Competitive Advantage
 
-- Strategic location in Khuzestan  
-- Integrated agro-industrial model  
-- Efficient resource utilization  
+- Strategic location (Khuzestan)  
+- Integrated system design  
+- Efficient resource use  
 - Export market access  
 
 ---
 
 ## Development Phases
 
-- Phase 1: Land acquisition and infrastructure  
+- Phase 1: Land & infrastructure  
 - Phase 2: Plantation development  
 - Phase 3: Processing facilities  
-- Phase 4: Export expansion  
+- Phase 4: Export scaling  
 
 ---
 
 ## Conclusion
 
-This project represents a high-potential agricultural and industrial investment opportunity, combining land, water, and supply chain infrastructure into a scalable export-oriented platform.
+This project represents a high-potential agro-industrial investment opportunity combining land, water, and supply chain infrastructure into a scalable export platform.
 
 ---
 
