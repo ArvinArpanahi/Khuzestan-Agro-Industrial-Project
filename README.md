@@ -1,218 +1,114 @@
-<p align="center">
-  <img src="images/date-palm-field.png" width="900"/>
-</p>
+# Khuzestan Agro-Industrial Date Palm Project
 
-# 🌴 Khuzestan Agro-Industrial Project
+## Quick Overview
 
-🚀 A 50,000-hectare integrated agro-industrial investment opportunity in Khuzestan, Iran.  
-Large-scale date palm plantation and agro-industrial project in Khuzestan, Iran.  
-Integrated Date Palm Valley Project.
+A large-scale date palm plantation and agro-industrial platform designed for export-oriented production, combining agricultural development, water infrastructure, and industrial processing in Khuzestan, Iran.
 
 ---
 
-## 📌 Executive Summary
+## Project Structure
 
-A large-scale, export-oriented agro-industrial project designed to position Khuzestan as a leading hub for date production and processing in the Middle East.
-
----
-
-## 🧩 Overview
-
-This project proposes the development of a large-scale integrated date palm plantation and agro-industrial ecosystem in Khuzestan Province, Iran.
-
-The project spans approximately 50,000 hectares across strategic zones near:
-
-- Khorramshahr  
-- Abadan  
-- Shadegan  
-- Darkhovin  
-
-It combines:
-
-- Industrial-scale agriculture  
-- Agro-processing industries  
-- Export infrastructure  
+- [Project Concept](01-project-concept.md)
+- [Technical Design](02-technical-design.md)
+- [Land & Water Strategy](03-land-water-strategy.md)
+- [Supply Chain](04-supply-chain.md)
+- [Market Analysis](05-market-analysis.md)
+- [Financial Model](06-financial-model.md)
+- [Environmental Impact](07-environmental-impact.md)
+- [Risk Analysis](08-risk-analysis.md)
+- [Implementation Roadmap](09-implementation-roadmap.md)
+- [Team](10-team.md)
+- [Partners](11-partners.md)
+- [Investor Deck](12-deck.md)
 
 ---
 
-## 🗺 Project Master Plan
+## Executive Summary
 
-High-level zoning of plantation areas, logistics routes, and industrial hub positioning across Khuzestan region.
+This project presents the development of a large-scale date palm plantation integrated with agro-industrial processing infrastructure in Khuzestan.
 
-<p align="center">
-  <img src="images/master-map.jpg" width="900"/>
-</p>
+The model is designed to transform raw agricultural production into a scalable export-driven industrial platform.
 
 ---
 
-## 🛣 Road & Logistics Network
+## Strategic Vision
 
-Integrated road network connecting plantation zones, industrial hubs, and export terminals.
+To build a high-efficiency agro-industrial system that combines:
 
-<p align="center">
-  <img src="images/road-network.jpg" width="900"/>
-</p>
-
----
-
-## 💧 Irrigation System
-
-Advanced water distribution system designed for large-scale efficiency and sustainability.
-
-<p align="center">
-  <img src="images/irrigation-map.jpg" width="900"/>
-</p>
+- Large-scale plantation  
+- Water and irrigation infrastructure  
+- Processing and value-added production  
+- Export logistics  
 
 ---
 
-## 🎯 Objectives
+## Core Components
 
-- Establish 5 million date palm trees  
-- Develop agro-industrial value chains  
-- Create 10,000+ jobs  
-- Enable export-oriented production  
+### Plantation Development
 
----
-
-## 📊 Project Scale
-
-- Total Area: 50,000 hectares  
-- Total Palms: 5,000,000  
-- Annual Production: ~500,000 tons  
-- Workforce: ~10,000 employees  
+- Large-scale date palm cultivation  
+- Optimized yield per hectare  
+- Mechanized agricultural processes  
 
 ---
 
-## 🗺 Geographic Clusters
+### Water & Irrigation Infrastructure
 
-| Cluster | Location | Area | Palms |
-|--------|---------|------|------|
-| 1 | Arvand Kenar | 12,000 ha | 1,200,000 |
-| 2 | East Abadan | 8,000 ha | 800,000 |
-| 3 | West Khorramshahr | 9,000 ha | 900,000 |
-| 4 | Shadegan | 10,000 ha | 1,000,000 |
-| 5 | Darkhovin | 2,000 ha | 200,000 |
-| Research | Minu Island | 1,000 ha | 100,000 |
+- Efficient irrigation systems  
+- Sustainable water usage  
+- Long-term resource management  
 
 ---
 
-## 💧 Water Strategy
+### Processing & Value Addition
 
-- Subsurface drip irrigation  
-- Daily demand: 600,000 m³  
-
-Sources:
-
-- Karun River  
-- Arvand River  
-- Bahmanshir River  
+- Date processing facilities  
+- Packaging and export preparation  
+- Industrial by-products  
 
 ---
 
-## 🏗 Infrastructure
+### Supply Chain & Export
 
-- Main canals: 150 km  
-- Drainage system: 400 km  
-- Roads: 420 km  
-
----
-
-## 🏭 Industrial Zone
-
-📍 Main Hub: East Abadan  
-
-### Export & Logistics Network
-
-Ports:
-- Mahshahr Port (Primary Export Hub – international shipping)  
-- Abadan Port (fast access, regional export)  
-- Khorramshahr Port (river & Iraq trade access)  
-
-Land Routes:
-- Shalamcheh Border (Iran–Iraq)  
-- Chazabeh Border (Iran–Iraq)  
-
-This structure enables flexible, low-cost, and high-volume export to global and regional markets.
+- Logistics infrastructure  
+- Access to international markets  
+- Export-oriented distribution  
 
 ---
 
-## 🏭 Industrial Facilities
+## Investment Highlights
 
-These facilities ensure full value-chain integration, maximizing product value and minimizing waste.
-
-- Date processing plant  
-- Ethanol production  
-- Animal feed production  
-- Date paste & confectionery  
-- Advanced packaging  
+- Strong global demand for dates  
+- Export-driven revenue model  
+- Scalable land-based infrastructure  
+- Long-term agricultural yield stability  
 
 ---
 
-## 💡 Why Invest?
+## Competitive Advantage
 
-- Large-scale agricultural opportunity in a high-demand global market  
-- Strategic export access via Persian Gulf and Iraq  
-- Integrated value chain ensuring higher margins  
-- Strong labor availability and regional expertise  
-- Scalable infrastructure with long-term growth potential  
-
----
-
-## 💰 Investment
-
-### Plantation
-- $9,500 per hectare  
-- Total: ~$475 million  
-
-### Industrial
-- ~$700–900 million  
+- Strategic location (Khuzestan)  
+- Integrated production model  
+- Efficient resource utilization  
+- Access to export markets  
 
 ---
 
-## 📈 Revenue
+## Development Phases
 
-- Estimated: $400M – $700M annually  
-
----
-
-## ⏱️ ROI
-
-- Conservative: 8–10 years  
-- Optimized: 6–8 years  
+- Phase 1: Land and infrastructure setup  
+- Phase 2: Plantation development  
+- Phase 3: Processing facilities  
+- Phase 4: Export scaling  
 
 ---
 
-## 🌍 Strategic Advantages
+## Conclusion
 
-- Direct access to water resources  
-- Proximity to Persian Gulf export routes  
-- Suitable climate for date cultivation  
-- Large-scale integrated design  
-- Strong labor availability  
+This project represents a high-potential agricultural and industrial investment opportunity, combining land, water, and supply chain infrastructure into a scalable export-oriented platform.
 
 ---
 
-## 🧠 Open Collaboration
+## Investor Access
 
-We invite:
-- Agricultural engineers  
-- Irrigation specialists  
-- Industrial engineers  
-- GIS experts  
-- Investors  
-
----
-
-## 👤 Founder
-
-Arvin Arpanahi
-
-- 14+ years experience in accounting  
-- Experience in industrial & agricultural sectors  
-- Field knowledge of Khorramshahr & Abadan region  
-
----
-
-## 🚀 Vision
-
-To transform Khuzestan into a regional agro-industrial hub and a leading exporter of date-based products.
+👉 [Investor Deck](12-deck.md)
